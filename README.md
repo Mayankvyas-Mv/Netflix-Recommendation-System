@@ -46,5 +46,3 @@ This project focuses on analyzing Netflix user ratings to:
 👨‍💻 Author
 * Mayank Vyas – Data Engineering Enthusiast
 
-**Dataset Link** - https://drive.google.com/file/d/1dzUpqAUtsgVwCCX9PD9LwiXUwXC5cGmM/view?usp=sharing
-Data
